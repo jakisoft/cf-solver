@@ -78,8 +78,7 @@ Berdasarkan `Dockerfile`, dependensi sistem berikut diperlukan:
 
 ## Susunan Project
 
-/
-
+```Markdown
 ├── index.js # Entry point server Express
 
 ├── Dockerfile # Konfigurasi build Docker
@@ -109,7 +108,7 @@ Berdasarkan `Dockerfile`, dependensi sistem berikut diperlukan:
 ├── fakePage.html # Template HTML untuk mode 'turnstile-min'
 
 └── sdo.gif # (File gambar)
-
+```
 
 ## Contoh Penggunaan
 
